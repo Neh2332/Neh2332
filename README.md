@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Nehmat F.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=35&pause=1000&center=true&width=435&lines=Neh2332)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Neh2332)](https://git.io/typing-svg)
 
 <!--
 **Neh2332/Neh2332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
