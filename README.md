@@ -3,8 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Neh2332)](https://git.io/typing-svg)
 
 
+## Technologies that I use
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
+![](https://github-readme-stats.vercel.app/api?username={Neh2332}&theme=blue-green)
 <!--
 **Neh2332/Neh2332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
