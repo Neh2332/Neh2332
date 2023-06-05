@@ -2,7 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Neh2332)](https://git.io/typing-svg)
 
+
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Vscode-informational?style=flat&logo=VsCode&logoColor=white&color=2bbc8a)
 <!--
 **Neh2332/Neh2332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
