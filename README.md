@@ -1,9 +1,6 @@
-### Hi there 👋 I am Nehmat F.
+### Hi there 👋 I am Nehmat F. a Software Engineering Student from Canada
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Neh2332)](https://git.io/typing-svg)
-
-
-My name Nehmat and I'm a Software Engineering Student from Canada ![image](https://github.com/Neh2332/Neh2332/assets/114631060/d2228d65-5265-45d2-8557-e6ad77dc1bf4)
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 <!--
