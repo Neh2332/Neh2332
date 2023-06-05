@@ -1,4 +1,4 @@
-### Hi there 👋 I am Nehmat F. and I am a Software Engineering Student from Canada!:canada:
+### Hi there 👋 I am Nehmat F. and I am a Software Engineering Student from Canada!:maple_leaf:
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Neh2332)](https://git.io/typing-svg)
 
