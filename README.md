@@ -4,7 +4,7 @@
 
 
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Vscode-informational?style=flat&logo=VsCode&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--
 **Neh2332/Neh2332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
