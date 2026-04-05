@@ -1,31 +1,107 @@
-### Hi there 👋 I am Nehmat F. and I am a Software Engineering Student from Canada!:maple_leaf:
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=35&duration=6000&pause=150&color=56EBF7&center=true&vCenter=true&width=435&lines=Neh2332)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6C63FF&height=180&section=header&text=Neh2332&fontSize=42&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" />
+
+&nbsp;
+
+**Software Engineering Student**
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1500&color=6C63FF&center=true&vCenter=true&multiline=false&width=500&height=30&lines=Welcome+to+my+page.;Building+clean+software+from+Canada.;Designing+systems+that+just+work." alt="Typing SVG" /></a>
+
+&nbsp;
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=6C63FF)]([https://linkedin.com/in/](https://www.linkedin.com/in/nehmat-farooq/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=firefoxbrowser&logoColor=6C63FF)](https://personal-portfolio-5v8.pages.dev/)
+
+</div>
+
+&nbsp;
+
+## ◈ &nbsp; About
+
+I'm a Software Engineering student based in **Canada**, focused on building clean software.
+
+&nbsp;
+
+---
+
+&nbsp;
+
+## ◈ &nbsp; Tech Stack
+
+<div align="center">
+
+<img src="./tech-globe.svg" width="100%" alt="Tech Stack Globe — TypeScript, React, Next.js, JavaScript, Node.js, Python, C++, Docker, Git, Flutter, Dart, Firebase, MongoDB, Figma, Linux" />
+
+</div>
+
+&nbsp;
+
+---
+
+&nbsp;
+
+## ◈ &nbsp; GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neh2332&hide_border=true&background=0d1117&stroke=6C63FF33&ring=6C63FF&fire=6C63FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=6C63FF&sideLabels=6C63FF&dates=888888" alt="GitHub Streak" />
+
+</div>
+
+&nbsp;
+
+---
+
+&nbsp;
+
+## ◈ &nbsp; Notable Work
+
+<div align="center">
+
+| &nbsp; | Project | Description | Stack |
+|:------:|:--------|:------------|:------|
+| 🎓 | [**Capstone 2025**](https://github.com/JerryShum/capstone-2025) | Ontario Tech University Capstone Project | `TypeScript` |
+| 🥉 | [**OEC 2025**](https://github.com/JeremyTubongbanua/OEC_2025) | 3rd Place — Ontario Engineering Competition | `TypeScript` |
+| 🔐 | [**AtManagement**](https://github.com/Neh2332/AtManagement) | Secure project management on the atPlatform | `Dart` · `Flutter` |
+| 👔 | [**WeeklyWardrobe**](https://github.com/JerryShum/WeeklyWardrobe) | Smart wardrobe planning application | `JavaScript` |
+| 💻 | [**codecraft.io**](https://github.com/JerryShum/codecraft.io) | Collaborative coding platform | `JavaScript` |
+| 🤖 | [**HypixelBot**](https://github.com/Neh2332/HypixelBot) | Discord bot for Hypixel game stats | `JavaScript` |
+
+</div>
+
+&nbsp;
+
+---
+
+&nbsp;
 
 
-## Technologies that I use
-![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![https://www.linkedin.com/in/nehmat-farooq/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
 
+> *"The things you think about determine the quality of your mind.*
+> *Your soul takes on the color of your thoughts."*
+>
+> **— Marcus Aurelius**
 
-## My current Github Stats
-![](https://github-readme-stats.vercel.app/api?username=Neh2332&theme=blue-green)
-<!--
-**Neh2332/Neh2332** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+&nbsp;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+&nbsp;
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neh2332&bg_color=0d1117&color=6C63FF&line=6C63FF&point=ffffff&area=true&area_color=6C63FF&hide_border=true" width="95%" alt="Activity Graph" />
+
+&nbsp;
+
+![Profile Views](https://komarev.com/ghpvc/?username=Neh2332&color=6C63FF&style=flat-square&label=visitors)
+
+&nbsp;
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:6C63FF&height=100&section=footer" width="100%" />
+
+</div>
