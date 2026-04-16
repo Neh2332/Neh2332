@@ -10,7 +10,7 @@
 
 &nbsp;
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=6C63FF)]([https://linkedin.com/in/](https://www.linkedin.com/in/nehmat-farooq/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=6C63FF)](https://www.linkedin.com/in/nehmat-farooq/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=firefoxbrowser&logoColor=6C63FF)](https://personal-portfolio-5v8.pages.dev/)
 
 </div>
