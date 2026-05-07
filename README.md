@@ -6,7 +6,6 @@
 
 **Software Engineering Student**
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=18&duration=3000&pause=1500&color=6C63FF&center=true&vCenter=true&multiline=false&width=500&height=30&lines=Welcome+to+my+page.;Building+clean+software+from+Canada.;Designing+systems+that+just+work." alt="Typing SVG" /></a>
 
 &nbsp;
 
@@ -41,7 +40,6 @@ I'm a Software Engineering student based in **Canada**, focused on building clea
 
 &nbsp;
 
-## ◈ &nbsp; GitHub Analytics
 
 <div align="center">
 
@@ -49,46 +47,6 @@ I'm a Software Engineering student based in **Canada**, focused on building clea
 
 </div>
 
-&nbsp;
-
----
-
-&nbsp;
-
-## ◈ &nbsp; Notable Work
-
-<div align="center">
-
-| &nbsp; | Project | Description | Stack |
-|:------:|:--------|:------------|:------|
-| 🎓 | [**Capstone 2025**](https://github.com/JerryShum/capstone-2025) | Ontario Tech University Capstone Project | `TypeScript` |
-| 🥉 | [**OEC 2025**](https://github.com/JeremyTubongbanua/OEC_2025) | 3rd Place — Ontario Engineering Competition | `TypeScript` |
-| 🔐 | [**AtManagement**](https://github.com/Neh2332/AtManagement) | Secure project management on the atPlatform | `Dart` · `Flutter` |
-| 👔 | [**WeeklyWardrobe**](https://github.com/JerryShum/WeeklyWardrobe) | Smart wardrobe planning application | `JavaScript` |
-| 💻 | [**codecraft.io**](https://github.com/JerryShum/codecraft.io) | Collaborative coding platform | `JavaScript` |
-| 🤖 | [**HypixelBot**](https://github.com/Neh2332/HypixelBot) | Discord bot for Hypixel game stats | `JavaScript` |
-
-</div>
-
-&nbsp;
-
----
-
-&nbsp;
-
-
-<div align="center">
-
-> *"The things you think about determine the quality of your mind.*
-> *Your soul takes on the color of your thoughts."*
->
-> **— Marcus Aurelius**
-
-</div>
-
-&nbsp;
-
----
 
 &nbsp;
 
