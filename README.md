@@ -4,7 +4,7 @@
 
 &nbsp;
 
-**Software Engineering Student**
+**Software Engineer**
 
 
 &nbsp;
