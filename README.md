@@ -18,7 +18,7 @@
 
 ## ◈ &nbsp; About
 
-I'm a Software Engineering student based in **Canada**, focused on building clean software.
+I'm a Software Engineer based in **Canada**, focused on building clean software.
 
 &nbsp;
 
